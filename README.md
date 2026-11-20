@@ -17,6 +17,10 @@ cd proxy
 node --test
 ```
 
+## La app funcionando en el celular
+
+<img src="capturas_app/app_01.jpg" alt="App en el celular" width="300">
+
 ---
 
 ## Evidencias TDD (rojo → verde)
